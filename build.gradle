@@ -1,0 +1,8 @@
+plugins {
+  java
+}
+
+dependencies {
+  compileOnly 'org.eclipse.microprofile.reactive-streams-operators:microprofile-reactive-streams-operators-api:3.0'
+  compileOnly 'org.eclipse.microprofile.reactive-streams-operators:microprofile-reactive-streams-operators-core:3.0'
+}
